@@ -5,6 +5,8 @@ environment:
 python = 3.6
 torch = 1.0
 
+download Market-1501-v15.09.15, DukeMTMC-reID, MSMT17 to /data
+
 run train.sh
 
 # train from MSMT17 to DukeMTMC-reID
